@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374e20e1-db53-4ade-bf9a-6b3463418635" name="Default" comment="" />
+    <list default="true" id="374e20e1-db53-4ade-bf9a-6b3463418635" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/cadastroUsuario.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/execicio3.9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.15.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.15.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.18.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.20.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exerciio4.2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.15.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.9.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,68 +69,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exercicio5.11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio5.12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio5.13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio5.14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio5.15.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.15.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listagem5.14.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,13 +78,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/capitulo 03/exercicio/exercicio3.8.py" />
-        <option value="$PROJECT_DIR$/capitulo 03/exercicio/execicio3.9.py" />
-        <option value="$PROJECT_DIR$/capitulo 03/listagem/listagem3.13.py" />
-        <option value="$PROJECT_DIR$/capitulo 03/listagem/listagem3.15.py" />
         <option value="$PROJECT_DIR$/capitulo 03/listagem/teste.py" />
         <option value="$PROJECT_DIR$/capitulo 03/listagem/listagem3.18.py" />
         <option value="$PROJECT_DIR$/exerciciosProposto/desafio01/Problema" />
@@ -134,6 +133,10 @@
         <option value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.14.py" />
         <option value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.15.py" />
         <option value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py" />
+        <option value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.19.py" />
+        <option value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.18.py" />
+        <option value="$PROJECT_DIR$/capitulo 05/listagem/dffs.py" />
+        <option value="$PROJECT_DIR$/capitulo 05/listagem/listagem5.15.py" />
       </list>
     </option>
   </component>
@@ -143,6 +146,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -158,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,42 +174,27 @@
             <path>
               <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="capitulo 03" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo 05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="capitulo 03" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="capitulo 03" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio" type="462c0819:PsiDirectoryNode" />
-              <item name="cap5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="capitulo 03" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio" type="462c0819:PsiDirectoryNode" />
-              <item name="cap5" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo 05" type="462c0819:PsiDirectoryNode" />
               <item name="listagem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/cmder/vendor/git-for-windows/cmd/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rnsil\PycharmProjects\CursoPython" />
       <recent name="C:\Users\rnsil\PycharmProjects\CursoPython\capitulo 03\exercicio\cap5\listagem" />
       <recent name="C:\Users\rnsil\PycharmProjects\CursoPython\capitulo 03\exercicio\cap4\exercicio" />
       <recent name="C:\Users\rnsil\PycharmProjects\CursoPython\capitulo 03\exercicio\cap3" />
@@ -223,25 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio5.15">
-    <configuration name="exercicio5.11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CursoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.listagem5.15">
     <configuration name="exercicio5.12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,7 +268,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="listagem5.12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listagem5.14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -308,26 +280,44 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CursoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="listagem5.15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo 05/listagem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CursoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo 05/listagem/listagem5.15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.listagem5.12" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exercicio5.11" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exercicio5.12" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exercicio5.14" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exercicio5.15" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exercicio5.12" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exercicio5.14" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exercicio5.15" />
+      <item index="3" class="java.lang.String" itemvalue="Python.listagem5.14" />
+      <item index="4" class="java.lang.String" itemvalue="Python.listagem5.15" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exercicio5.15" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exercicio5.14" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercicio5.12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exercicio5.11" />
-        <item index="4" class="java.lang.String" itemvalue="Python.listagem5.12" />
+        <item index="0" class="java.lang.String" itemvalue="Python.listagem5.15" />
+        <item index="1" class="java.lang.String" itemvalue="Python.listagem5.14" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercicio5.15" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exercicio5.14" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exercicio5.12" />
       </list>
     </recent_temporary>
   </component>
@@ -352,10 +342,10 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29464287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4940476" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30427632" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30427632" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -373,13 +363,13 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30427632" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15848215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29464287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -396,365 +386,361 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/cadastroUsuario.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="37" lean-forward="false" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/execicio3.9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exerciio4.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.8.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.7.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.9.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.10.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.4.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.5.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.6.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.7.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.8.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="9" column="39" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.9.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.10.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.11.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.12.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.13.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.14.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.15.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/listagem/listagem3.20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/execicio3.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/listagem/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/listagem/listagem4.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/listagem/listagem4.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/listagem/listagem4.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exercicio4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 04/exercicio/exerciio4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/exercicio5.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/exercicio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/dffs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py">
+    <entry file="file://$PROJECT_DIR$/capitulo 05/listagem/listagem5.15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="110">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
