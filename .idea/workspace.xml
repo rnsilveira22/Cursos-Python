@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="374e20e1-db53-4ade-bf9a-6b3463418635" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/cadastroUsuario.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/execicio3.9.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.11.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.12.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.13.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.14.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.15.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.7.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/exercicio/exercicio3.8.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.10.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.11.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.13.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.15.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.18.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.20.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap3/listagem/listagem3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.10.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.4.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.5.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.6.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.7.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.8.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exercicio4.9.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/exercicio/exerciio4.2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.4.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.5.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap4/listagem/listagem4.6.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.10.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.11.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.12.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.13.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.14.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.15.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.4.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.5.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.6.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.7.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.8.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/exercicio/exercicio5.9.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.12.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.14.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.6.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.7.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/capitulo 03/exercicio/cap5/listagem/listagem5.9.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -175,12 +120,6 @@
               <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
               <item name="capitulo 05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="capitulo 05" type="462c0819:PsiDirectoryNode" />
-              <item name="listagem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,6 +274,14 @@
       <option name="presentableId" value="Default" />
       <updated>1519472363111</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercícios de Programação Python">
+      <created>1521904768749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521904768749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,6 +327,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercícios de Programação Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios de Programação Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
